@@ -1,0 +1,129 @@
+/* border nav */
+body{
+    overflow: hidden;
+    
+  }
+  #flipbook{
+    position: absolute;
+    left: 200px;
+  }
+  #flipbook .page{
+    background: #fff;
+  }
+  #flipbook .shadow,
+      #flipbook.shadow{
+        -webkit-box-shadow: 0 4px 10px #666;
+        -moz-box-shadow: 0 4px 10px #666;
+        -ms-box-shadow: 0 4px 10px #666;
+        -o-box-shadow: 0 4px 10px #666;
+        box-shadow: 10px 4px 10px 1px #666;
+      }
+    
+.box {
+  border: 0;
+background: none;
+display: block;
+margin: 20px auto;
+text-align: center;
+border: 2px solid #3498db;
+padding: 14px 10px;
+width: 300px;
+outline: none;
+color: white;
+border-radius: 24px;
+transition: .5s;
+cursor: pointer;
+}
+
+.box:hover{
+  width:350px;
+  background: #2ecc71;
+}
+
+/* border nav */
+/*  */
+.skew
+      {
+          position:relative;
+          padding-top: 20px;
+      }
+      .skew .skew-image
+      {
+          position:absolute;
+          width: 70%;
+          right: 0;
+          top: 5%;
+          bottom: 5%;
+          background-image: url(../../images/edited.jpg);
+          background-size: cover;
+         background-position: top 10%;
+         
+      }
+      .skew .skew-wrapper
+      {
+          position: relative;
+      }
+      .skew .skew-wrapper.min200
+      {
+          min-height: 200px;
+      }
+      .skew .skew-wrapper.min300
+      {
+          min-height: 300px;
+      }
+      .skew .skew-wrapper.min400
+      {
+          min-height: 400px;
+      }
+      .skew .skew-content-bg
+      {
+          position: absolute;
+          height: 100%;
+          top: 0%;
+          left: -40px;
+          right: 100px;
+          box-shadow:  rgba(0, 0, 0, 0.45) 5px 10px 20px 0;
+          background :#1abc9c;
+          background-position:  center left;
+          transform: skew(-6deg,0deg);
+      }
+      .skew .skew-content
+      {
+          position: relative;
+          font-size: 1.4rem;
+          color:white ;
+          padding: 290px 20px;
+      }
+      .bttn
+      {
+          border:2px solid;
+          background-color: none;
+          color: black; 
+          padding: 10px 22px;
+          font-size:  16px;
+          cursor: pointer;
+          
+      }
+      .bttn-white
+      {
+          border-color: white;
+          position: absolute;
+          color: white;
+          transform: skew(-6deg,0deg);
+          top: -30px;margin-left: -80px;
+      }
+      .bttn-white:hover
+      {
+        border: 2px solid;
+          border-color: orange;
+          text-decoration: none;
+         color: white;
+          
+      }
+      h4{
+          
+          color: white;
+      }
+
+/*  */
+

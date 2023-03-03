@@ -1,0 +1,38 @@
+Export Authority
+Step 1. Requesting Company
+	-Input Requesting Company
+	-ex. XIAMEN CHINA
+Step 2. Business Address
+	-Input Business Company
+	-(ex. FUJIAN SHINE YING IMPORT & EXPORT CO., LTD)
+Step 3. Name of Consignee
+	-Input Name of Consignee
+	-(ex. John Doe)
+Step 4. Adress of Consignee
+	- Input Adress of Consignee
+	-(ex. Wuhan China)
+Step 5. Shipping Vessel
+	-Input Shipping Vessel
+	-(ex. )
+Step 6. ETD
+	-Input Estimated Time of Departure
+   	-(ex. 01/01/2021)
+Step 7. Kind of Wood Products
+	-Input Kind of Wood Products
+	-(ex. Rattan)
+Step 8. No. of Pieces
+	-Input Number of Pieces
+	-(ex. 1000)
+Step 9. Specifications
+	-Input Specification
+Step 10. Volume (cu.m)
+	-Input Volume (cu.m)
+Step 11.Price
+	-Input Price
+	-(ex. $100)
+Step 12.Species
+	-Input Species
+Step 13.Attachment
+Step 14.Date Applied
+Step 15.Expiry Date
+Step 16 Continue button

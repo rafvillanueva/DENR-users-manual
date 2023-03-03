@@ -1,0 +1,23 @@
+Gratuitos Permit
+Step 1. Permit No.
+	-Input Permit Number
+	-(ex.g324-2gj034j)
+Step 2. Holder
+	-Input Name of the Holder
+	-(ex. John Doe)
+Step 3. Location
+	-Input Location
+	-(ex. Claveria,Misamis Oriental)
+Step 4. Species
+	-Input Species
+Step 5. Sampling/Collection Techniques
+	-Input Sampling/Collection Techniques
+Step 6. Number of Speciments to be Collected
+	-Input Number of Speciments to be Collected
+Step 7. Date Issued
+	-Input Date Issued
+Step 8. Expiry Date
+Step 9. Remarks
+Step 10. Date Applied
+Step 11. Attachments
+Step 12. Continue Button	

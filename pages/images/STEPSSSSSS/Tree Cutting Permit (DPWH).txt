@@ -1,0 +1,22 @@
+Tree Cutting Permit (DPWH)
+Step 1.Tree Cutting Permit No
+	-Input Tree Cutting Permit Number
+Step 2.TCP Holder
+	-Input Tree Cutting Permit Holder
+Step 3.Name of Representative
+	-Input Representative's Name
+Step 4.Position
+	-Input Position
+Step 5.Location
+	-Input Location
+Step 6.Proof of Ownership
+	-Input Proof of OwnerShip
+Step 7.Total Volume (cu.m.)
+	-Input Total Volume (cu.m)
+Step 8.No. of Trees/Hills
+Step 9.Species
+Step 10.Date Applied
+Step 11.Attachments
+Step 12.Date Issued
+Step 13.Expiry Date
+Step 14.Continue Button

@@ -1,0 +1,20 @@
+CERTIFICATE FOR WATER PERMIT APPLICATION
+Step 1. Water Permit Application No.
+	-Input Water Permit Application Number
+	-ex. W27123475u2
+Step 2. Name of Applicant
+	-Input Name of Applicant
+	-ex. John Doe
+Step 3. Date Received
+	-Input Date Received
+	-(ex. 07/02/2020)
+Step 4. Location
+	-Input Location
+Step 5. Date of Certification Issuance
+	-Input Date of Certification Issuance
+	-(ex. 07/02/2020)
+Step 6. Duration of Posting
+	-Input Duration of Posting
+Step 7. Attachments
+	-Input attachments if necessary
+Step 8. Continue Button

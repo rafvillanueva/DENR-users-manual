@@ -1,0 +1,5 @@
+OTHERS
+
+Step 1. Input Text in the space provided
+Step 2. Continue Button
+	-Click Continue Button And generate code

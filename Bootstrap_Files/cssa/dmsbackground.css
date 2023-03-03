@@ -1,0 +1,16 @@
+body
+{
+    background-color: white;
+}
+.logo
+{
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    background: #eaece5;
+    top:5%;
+    left:35%;
+    color: white;
+    box-shadow: 10px 10px 10px 10px  grey;
+
+}

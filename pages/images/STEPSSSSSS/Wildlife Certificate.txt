@@ -1,0 +1,26 @@
+CERTIFICATE OF REGISTRATION(LOG/LUMBER DEALER-RENEWAL)
+
+Step 1. Wildlife Permit No.
+	-Input Wildlife Permit Number (ex. W90-109-188)
+Step 2. Holder
+	-Input Name of the Holder (ex. John Doe)
+Step 3. Location
+	-Input Location
+Step 4. Species
+	-Input kind of Species
+Step 5. No. of Heads
+	-Input Number Heads 
+Step 6. Remarks
+	-Input Remarks
+Step 7. Date Applied
+	-Input Date Applied
+Step 8. Attachments
+	-Input Attachments
+Step 9. Date Issued
+	-Input Date Issued	 
+Step 10. Expiry Date
+	-Input Expiry Date
+Step 11. Continue Button
+	-Click Continue Button and wait for the Inputted information form
+Step 12. Save and Generate code
+	-

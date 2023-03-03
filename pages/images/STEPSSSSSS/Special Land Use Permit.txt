@@ -1,0 +1,16 @@
+Special Land Use Permit
+Step 1.Permittee
+	-Input name of Permittee
+Step 2.No.
+	-Input Number
+Step 3.Name of Representative
+Step 4.Area
+Step 5.Location
+Step 6.Annual Rental(P)
+	-Input Annual Rental
+Step 7.Purpose
+	-Input Purpose
+Step 8.Expiry Date
+Step 9.Date Applied
+Step 10.Attachments
+Step 11.Continue Button

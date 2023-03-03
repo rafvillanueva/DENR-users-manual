@@ -1,0 +1,16 @@
+Wildlife Special Use Permit
+Step 1.Permit Number
+	-Input Permit Number
+Step 2.Name of Proponent
+	-Input Name of Proponent
+Step 3.Address of Proponent
+	-Input Address of proponent
+Step 4.Name of Project
+	-Input Name of Project
+Step 5.Project Location
+	-Input Project Location
+Step 6.Date Issued
+Step 7.Expiry Date
+Step 8.Date Applied
+Step 9.Attachments
+Step 10.Continue Button

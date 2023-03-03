@@ -1,0 +1,8 @@
+RewriteEngine On
+
+
+RewriteRule ^DENRhomepage?$ index.php
+
+
+
+#ErrorDocument 404 http://localhost/www/phLogin.php

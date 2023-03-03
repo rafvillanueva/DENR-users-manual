@@ -1,0 +1,14 @@
+REQUEST FOR AUTHORITY TO PROCESS
+Step 1.Requesting Party
+	-Input Request Party
+Step 2.Wood Products
+	-Input Wood Products
+Step 3.Species
+Step 4.Pieces
+Step 5.Volume (bd.ft.)
+Step 6.Volume (cu.m)
+Step 7.Date Applied
+Step 8.Attachments
+Step 9.Validity
+Step 10.Date of Order
+Step 11. Continue Button

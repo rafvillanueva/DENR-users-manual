@@ -1,0 +1,20 @@
+Request fo clearance to cut
+Step 1.CTPO Holder
+	-Input CERTIFICATE OF THE TREE PLANTATION OWNERSHIP Holder
+Step 2.CTPO No
+	-Input CERTIFICATE OF THE TREE PLANTATION OWNERSHIP
+Step 3.Location
+Step 4.Area(ha)
+Step 5.OCT/CTC No.
+	-Input OCT/CTC Number
+Step 6.No. of Hills
+	-Input No. of Hills
+Step 7.Species
+	-Input Species
+Step 8.Volume (cu.m.)
+Step 9.Date of Memo 	
+	-Input Date of Memo 	
+	-ex. 01/01/2020
+Step 10.Date Applied
+Step 11.Attachments
+Step 12.Continue Button

@@ -1,0 +1,77 @@
+
+.boxborder{
+
+
+	border: 0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #2ecc71;
+	padding: 14px 10px;
+	width: 55px;
+	outline: none; 
+	color: black;
+	border-radius: 10px;
+	transition: .5s;
+	cursor: pointer;
+
+}
+
+.boxborder:hover{
+
+	width: 280px;
+	background: #2ecc71;
+
+}
+.fieldborder{
+
+
+    border: 0;
+	background: none;
+	display: block;
+	margin: 15px;
+	text-align: center;
+	border: 2px solid #2ecc71;
+	padding: 10px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius: 10px;
+	transition: .5s;
+	cursor: pointer;
+	
+    
+}
+.fieldborder:hover{
+
+	letter-spacing: 2px;
+	background: #2ecc71;
+
+}
+
+
+.topnav
+{
+	border: 0;
+	background: none;
+	display: block;
+	margin: 20px;
+	text-align: center;
+	border: 2px solid #2ecc71;
+	padding: 14px 10px;
+	width: 50px;
+	outline: none;
+	color: white;
+	border-radius: 1px;
+	transition: .5s;
+	cursor: pointer;
+}
+.topnav:hover
+{
+	letter-spacing: 2px;
+	background: #2ecc71;
+}
+
+
+

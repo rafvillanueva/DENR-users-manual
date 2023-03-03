@@ -1,0 +1,16 @@
+.xbord
+{
+    border: 0;
+	background: none;
+	display: block;
+	margin: 20px ;
+	text-align: center;
+	border-bottom: 2px solid #2ecc71;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: black;
+	
+	transition: .5s;
+	cursor: pointer;
+}

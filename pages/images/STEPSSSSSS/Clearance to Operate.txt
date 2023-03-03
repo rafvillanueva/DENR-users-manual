@@ -1,0 +1,19 @@
+CLEARANCE TO OPERATE
+Step 1. Clearance Number
+	-Input Clearance Number
+	-(ex. 88292834)
+Step 2. Permittee
+	-Input Permittee
+	-(ex.John Doe)
+Step 3. Name of Representative
+	-Input Representative's Name
+	-(ex.John Doe)
+Step 4. Location
+	-Input Location
+	-(ex. Claveria, Misamis Oriental)
+Step 5. Date Issued
+	-Input Date Issued
+Step 6. Date Applied
+	-Input Date Issued
+Step 7. Attachments
+Step 8. Continue Button 

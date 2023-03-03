@@ -1,0 +1,11 @@
+RewriteEngine On
+
+
+RewriteRule ^DMS?$ denrdms.php
+RewriteRule ^DMSmain?$ dmsmain.php
+RewriteRule ^DSS?$ dss.php
+RewriteRule ^DSSmain?$ dssmain.php
+RewriteRule ^ICTEN?$ icten.php
+
+
+#ErrorDocument 404 http://localhost/www/phLogin.php

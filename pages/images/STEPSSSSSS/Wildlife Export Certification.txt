@@ -1,0 +1,25 @@
+Wildlife Export Certification
+Step 1.Number
+	-Input Number
+Step 2.Requesting Party
+	-Input Requesting Party
+Step 3.Address
+	-Input Adress
+Step 4.Purpose
+	-Input Purpose
+Step 5.Name of Consignee
+	-Input Consignee
+Step 6.Specimen
+	-Input Specimen
+Step 7.Description
+	-Input Description
+Step 8.Quantity
+	-Input Quantity
+Step 9.Date Issued
+	
+Step 10.Date Applied	
+	
+Step 11.Attachments
+	
+Step 12.Continue Button
+

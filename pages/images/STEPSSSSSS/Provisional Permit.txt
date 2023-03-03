@@ -1,0 +1,23 @@
+PROVISIONAL PERMIT
+Step 1.Provisional Permit No.
+	-Input Provisional Permit No.
+	-ex.75345631
+Step 2.Name of Applicant
+	-Input Name of Applicant
+	-ex.John Doe
+Step 3.Line
+	-Input Line
+Step 4.Bearings
+	-Input Bearings
+Step 5.Distance
+	-Input Distance
+Step 6. Boundaries
+	-Input Boundaries
+Step 7.Area
+	-Input Area
+Step 8.Use of Permit (e.g. Industrial/Commercial)
+	-Input Use of Permit
+Step 9.Date Issued
+Step 10.Expiry Date
+Step 11.Attachments
+Step 12.Continue Button

@@ -1,0 +1,27 @@
+Wildlife Farm Permit
+Step 1.Permit Number
+	-Input Permit Number
+Step 2.Permittee
+	-Input Permittee
+Step 3.Representative
+	-Input Representative's Name
+Step 4.Address
+	-Input Address
+Step 5.Location of Farm
+	-Input Location of Farm
+Step 6.Species
+	-Input Species
+Step 7.No. of Species
+	-Input Number of Species
+Step 8.Remarks
+	-Input Remarks
+Step 9.Date Issued
+	-Input 
+Step 10.Expiry Date
+	-Input 
+Step 11.Date Applied
+	-Input 
+Step 12.Attachments
+	-Input 
+Step 13.Continue Button
+	-Input 

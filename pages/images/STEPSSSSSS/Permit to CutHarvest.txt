@@ -1,0 +1,21 @@
+PERMIT TO CUT/HARVEST
+Step 1.Permit No.
+	-Input Permit Number
+Step 2.Permittee
+	-Input Permittee
+Step 3.Name of Representative
+	-Input Representative's Name
+Step 4.Location
+	-Input Location
+Step 5.No. of Tress/Hills
+	-Input Number of Tress/Hills
+Step 6.Species
+	-Input Species
+Step 7.Volume (cu.m)
+	-Input Volume
+Step 8.Date Applied
+Step 9.Attachments
+Step 10.Date Issued	
+Step 11.Expiry Date
+Step 12.Continue Button
+

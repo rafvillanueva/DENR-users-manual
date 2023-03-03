@@ -1,0 +1,13 @@
+RewriteEngine On
+
+
+RewriteRule ^annualrattan?$ annualrattan_book.php
+RewriteRule ^CORiwp?$ CORiwp.php
+
+RewriteRule ^logrenewal?$ CORlogrenewal.php
+RewriteRule ^CORlumber?$ CORlumber.php
+RewriteRule ^CTO?$ CTO.php
+RewriteRule ^CWPA?$ CWPA.php
+
+
+#ErrorDocument 404 http://localhost/www/phLogin.php
